@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "duplicate": 136,
+            "fileName1": "src/a.c",
+            "fileName2": "src/b.c",
+            "details": [
+                {
+                    "lineNumber2": 66,
+                    "duplicate": 136,
+                    "startLine1": 1,
+                    "startLine2": 1,
+                    "lineNumber1": 70
+                }
+            ]
+        }
+    ],
+    "totalDuplicate": 136
+}

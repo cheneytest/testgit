@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "duplicate": 93,
+            "fileName1": "src/a.c",
+            "fileName2": "src/b.c",
+            "details": [
+                {
+                    "lineNumber2": 5,
+                    "duplicate": 10,
+                    "startLine1": 1,
+                    "startLine2": 1,
+                    "lineNumber1": 5
+                },
+                {
+                    "lineNumber2": 15,
+                    "duplicate": 29,
+                    "startLine1": 12,
+                    "startLine2": 10,
+                    "lineNumber1": 14
+                },
+                {
+                    "lineNumber2": 19,
+                    "duplicate": 40,
+                    "startLine1": 36,
+                    "startLine2": 35,
+                    "lineNumber1": 21
+                },
+                {
+                    "lineNumber2": 7,
+                    "duplicate": 14,
+                    "startLine1": 69,
+                    "startLine2": 64,
+                    "lineNumber1": 7
+                }
+            ]
+        }
+    ],
+    "totalDuplicate": 93
+}

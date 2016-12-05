@@ -1,0 +1,33 @@
+{
+  "totalDuplicate": 78,
+  "results": [
+    {
+      "duplicate": 40,
+      "fileName1": "src/b.c",
+      "fileName2": "src/src1/a.c",
+      "details": [
+        {
+          "duplicate": 40,
+          "startLine1": 35,
+          "lineNumber1": 19,
+          "startLine2": 36,
+          "lineNumber2": 21
+        }
+      ]
+    },
+    {
+      "duplicate": 38,
+      "fileName1": "src/b.c",
+      "fileName2": "src/b.c",
+      "details": [
+        {
+          "duplicate": 38,
+          "startLine1": 73,
+          "lineNumber1": 19,
+          "startLine2": 94,
+          "lineNumber2": 19
+        }
+      ]
+    }
+  ]
+}
